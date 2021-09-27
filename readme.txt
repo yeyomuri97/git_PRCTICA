@@ -1,4 +1,4 @@
-corrección de errores de orgografía 
+corrección de errores de ortografía.
 
 modificacion del archivo en el segundo dia en la noche 
 alkfja asj Este es un texto de prueba modificado Version despues de borrar los 
