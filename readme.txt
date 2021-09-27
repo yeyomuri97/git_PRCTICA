@@ -1,3 +1,5 @@
+corrección de errores de orgografía 
+
 modificacion del archivo en el segundo dia en la noche 
 alkfja asj Este es un texto de prueba modificado Version despues de borrar los 
 archivos con reset referencia --hard y ressuci tarlos con git reflog SWI
